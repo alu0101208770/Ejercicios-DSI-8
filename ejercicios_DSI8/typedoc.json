@@ -1,6 +1,12 @@
 {
   "entryPoints": [
-    "./src/ejercicio-1.ts"
+    "./src/pokemonObject.ts", 
+    "./src/pokemonObjectCreator.ts", 
+    "./src/electricosCreator.ts",
+    "./src/fuegosCreator.ts", 
+    "./src/fuegos.ts",
+    "./src/electricos.ts"
+
   ],
   "out": "./documentacion"
 }
